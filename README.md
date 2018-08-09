@@ -46,7 +46,7 @@ A link for the Primero1° Amazon Kindle testing version can be emailed upon requ
 
 2. I have added my project as a branch to the forked repo of the original website’s repository: https://github.com/iqraceme/Primero/tree/iqraceme/primero
 
-3. I have also added primero as a branch to sugar labs repo: https://github.com/sugarlabs/sugarizer
+3. I have also added primero as a branch to sugar labs repo: https://github.com/sugarlabs/sugarizer/tree/iqraceme/primero
 
 4. You can check the android repo on: https://github.com/iqraceme/Primero-Android-
 
@@ -110,7 +110,7 @@ https://youtu.be/bW51n7ifaXs
 
 The steps below explain how to use the Primero1° application.
 
-1. Log onto the http://iqragsoc.com/iqragsoc.com/Primero or open the android/kindle app
+1. Log onto the qragsoc.com/iqragsoc.com/primero/ or open the android/kindle app
 
 2. You will see a blue Primero1° loader.
 
